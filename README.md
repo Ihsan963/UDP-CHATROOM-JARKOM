@@ -49,4 +49,4 @@ Masukkan IP server dan nama, lalu mulai chat.
 
 - **Python 3**
 - **Socket UDP** — `SOCK_DGRAM`
-- **Threading** — agar client bisa kirim & terima pesan bersamaan# UDP-CHATROOM-JARKOM
+- **Threading** — agar client bisa kirim & terima pesan bersamaan
