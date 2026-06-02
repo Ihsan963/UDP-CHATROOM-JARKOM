@@ -1,6 +1,9 @@
+NAMA: Ihsan Maulana Harjanto
+NRP: 5024241090
+
 # UDP CHATROOM JARKOM 
 
-Simulasi komunikasi antar client melalui server menggunakan protokol **UDP (User Datagram Protocol)**.
+Simulasi komunikasi antar client melalui server menggunakan protokol **UDP (User Datagram Protocol)**, berbeda dengan TCP yang perlu accept dahulu, UDP bisa kirim langsung tanpa perlu accept koneksi dulu.
 
 ---
 
